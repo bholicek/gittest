@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class testscript : MonoBehaviour
+public class MitchTest : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Testing branch");
+        //Mitch did this
     }
 
     // Update is called once per frame
